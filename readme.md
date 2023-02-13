@@ -13,7 +13,7 @@ npm install --save import-fool-webpack
 ```ts
 import importFoolWebpack from 'import-fool-webpack';
 
-const os = await importFoolWebpack ( 'node:os' ); // It's hust like "import ( 'node:os' )";
+const os = await importFoolWebpack ( 'node:os' ); // It's just like "import ( 'node:os' )";
 
 console.log ( os.platform () ); // => 'darwin'
 ```
