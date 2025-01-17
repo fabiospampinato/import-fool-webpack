@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/import-fool-webpack",
   "description": "Use dynamic import() without webpack finding out.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
