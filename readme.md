@@ -5,7 +5,7 @@ Use dynamic `import()` without webpack finding out.
 ## Install
 
 ```sh
-npm install --save import-fool-webpack
+npm install import-fool-webpack
 ```
 
 ## Usage
