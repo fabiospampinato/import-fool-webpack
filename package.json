@@ -2,6 +2,7 @@
   "name": "import-fool-webpack",
   "repository": "github:fabiospampinato/import-fool-webpack",
   "description": "Use dynamic import() without webpack finding out.",
+  "license": "MIT",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -21,8 +22,8 @@
     "webpack"
   ],
   "devDependencies": {
-    "fava": "^0.2.1",
-    "tsex": "^3.0.1",
-    "typescript": "^5.1.6"
+    "fava": "^0.3.4",
+    "tsex": "^4.0.2",
+    "typescript": "^5.7.3"
   }
 }
